@@ -4,7 +4,9 @@ The remote control being hacked is a Remocon RMC-166H.
 
 The rx.grc GNU Radio flowgraph records the RF signal when the buttons of the remote control is pressed. The below video is an example of the results when the flowgraph is run:
 
-![hackrf gnuradio](asset/hackrf_gnuradio.mp4)
+<!-- ![hackrf gnuradio](asset/hackrf_gnuradio.mp4) -->
+https://github.com/fumin/rfgate/assets/765222/4db72be0-3f69-46c6-bb28-eeeab66ca548
+
 
 The tx.grc flowgraph plays the recorded signal using a HackRF One.
 Below is a real world video of tx.grc opening a physical garage door:
